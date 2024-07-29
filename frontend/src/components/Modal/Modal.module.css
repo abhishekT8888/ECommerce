@@ -1,0 +1,40 @@
+.modalContainer {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* padding-left: 20px; */
+}
+.modalBodyMain{
+    width: 500px;
+    background-color: #fff;
+    padding: 2rem;
+    border-radius: 1rem;
+    text-align: center;
+}
+.modalHeader{
+    text-align: center;
+    padding: 1rem;
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+.modalCloseButton{
+    text-align: right;
+}
+.modalBody{
+    padding: 1rem;
+}
+.modalCheckoutButton{
+    margin: 0.5rem;
+    padding: 0.7rem;
+    background-color: rgb(2, 60, 2);
+    color: white;
+    border-radius: 1.5rem;
+    font-size: 1rem;
+    width: 40%;
+}
