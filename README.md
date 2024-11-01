@@ -26,6 +26,7 @@ cd ..
 cd backend
 npm install
 npm start
+
 #License This project is licensed under the MIT License. Feel free to use and modify the code as per the terms of the license.
 
 If you have any questions or need further assistance, please feel free to reach out to the project maintainer @Abhishek.
